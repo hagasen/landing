@@ -1,0 +1,98 @@
+html{
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    margin: 0;
+}
+
+.wholepage{
+    background-color: #1f2937;
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 15px 460px 100px 460px;
+    flex-wrap: wrap;
+
+}
+
+.link1{
+    margin-right: 20px;
+}
+
+.link2{
+    margin-right: 20px;
+}
+
+.logo{
+    margin-right: auto;
+}
+
+.firstpart{
+    justify-content: center;
+    display: flex;
+    color: white;
+    margin: 0 100px 100px 100px
+}
+
+.firstcontent{
+    margin-right: 50px;
+}
+
+button{
+background-color: #3882f6;
+border-radius: 5px;
+padding: 10px 35px 10px 35px;
+color: white;
+}
+
+
+.placeholder{
+    background-color: gray;
+    display: flex;
+    width: 550px;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.secondpart{
+    display: flex;
+    background-color: white;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.allboxes{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+
+}
+
+.boxcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    border-radius: 25px;
+    border: 2px solid #2b80ff;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
